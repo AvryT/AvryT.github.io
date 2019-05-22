@@ -1,6 +1,7 @@
 html {
     background-color: #f64747;
     font-family: laos, sans-serif;
+    color: #FFF;
 }
 
 h1 { 
@@ -9,4 +10,10 @@ h1 {
 
 p { 
     font-size: 3rem; 
+}
+
+.section {
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
 }
