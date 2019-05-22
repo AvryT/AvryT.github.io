@@ -5,16 +5,15 @@ html {
 }
 
 h1 { 
-    font-size: 3rem; 
+    font-size: 4rem; 
 }
 
 p { 
-    font-size: 1rem; 
+    font-size: 2rem; 
 }
 
 .section { 
-    height: 100vh;
-    margin-top: 30%;
+    height: 100vh; 
     justify-content: center;
     align-items: center;
     color: #FFF;
